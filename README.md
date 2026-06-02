@@ -2,12 +2,6 @@
 
 A responsive web app that fetches and displays real-time weather data for any city worldwide using the **OpenWeatherMap API** — built with React.js.
 
-🔗 **[Live Demo](https://ayushkul.github.io/react-weather-app)**
-
-![Weather App Preview](weather.gif)
-
----
-
 ## 📌 About the Project
 
 This project is a clean, responsive weather application that lets users search for any city and instantly view current weather conditions — temperature, humidity, wind speed, and more. It integrates with the OpenWeatherMap public API to deliver live data in a visually appealing interface.
@@ -184,20 +178,3 @@ npm run deploy
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Hardik Patel**  
-[![GitHub](https://img.shields.io/badge/GitHub-Hardik--1874-181717?logo=github)](https://github.com/Hardik-1874)
-
----
-
-> ⭐ Found this useful? Give it a star and share it!
