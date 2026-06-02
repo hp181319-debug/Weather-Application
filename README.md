@@ -1,5 +1,17 @@
 # 🌤️ Weather Application
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: HARDIKKUMAR SITANSHUBHAI PATEL
+
+**INTERN ID**: CITS179
+
+**DOMAIN**: MERN STACK WEB DEVELOPMENT
+
+**BATCH DURATION**: MAY 09th,2026 to JUNE 6th, 2026
+
+**MENTOR NAME** : NEELA SANTHOSH KUMAR
+
 A responsive web app that fetches and displays real-time weather data for any city worldwide using the **OpenWeatherMap API** — built with React.js.
 
 ## 📌 About the Project
